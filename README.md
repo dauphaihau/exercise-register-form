@@ -1,1 +1,1 @@
-BC08E - bài tập 4 databinding trong slide - Tran Vo Cong Hau
+BC08E - Exercise 4 in databinding - Tran Vo Cong Hau
